@@ -2,6 +2,8 @@
 
 How to run the program:
 
+Simply run the .ipynb (notebook) file in your IDE of choice.
+
 The cells are listed in sequential order with a brief synopsis of functionality.
 1. Installs the uci repo api
 2. Uses the uci api and loads in the data into an X and y dataframe
